@@ -1,0 +1,37 @@
+{
+  "name": "playteka",
+  "version": "0.1.0",
+  "description": "A blockly-based visual programming enviroment to playing with Arduino, Raspberry pi, etc.",
+  "files": [
+    "playteka.js",
+    "public"
+  ],
+  "main": "playteka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/playteka"
+  },
+  "keywords": [
+    "playteka",
+    "blockly",
+    "arduino",
+    "reaspberry",
+    "pi",
+    "processing",
+    "scratch"
+  ],
+  "homepage": "www.playteka.com",
+  "author": {
+    "name": "Zhou Keke",
+    "email": "zhoukeke@gmail.com"
+  },
+  "license": "Apache License, Version 2.0",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest",
+    "johnny-five": "latest"
+  }
+}
