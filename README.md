@@ -31,7 +31,7 @@ http://localhost:3000/blockly/app/playduino/IDE.html
 ## Documentation
 
 Documentation is available on the
-[AngularJS docs site](http://docs.angularjs.org/).
+[Playteka docs site](http://www.playteka.com/).
 
 ## License
 
